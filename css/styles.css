@@ -59,14 +59,14 @@ h1 {
 
 .cell.x::before {
     content: "X";
-    color: #ff0000;
+    color: #6ea6d4;
     font-size: 3rem;
     font-weight: bold;
 }
 
 .cell.o::before {
     content: "O";
-    color: #0000ff;
+    color: #85bb53;
     font-size: 3rem;
     font-weight: bold;
 }
